@@ -1,3 +1,4 @@
+<div align=center>
 <div id="header" >
   <img src="https://camo.githubusercontent.com/6c3198f753c2de8f79a350a9e7deb51692cc53a8991f0cb65ab121cd35ea586c/68747470733a2f2f6d656469612e74656e6f722e636f6d2f416c556b69476b52326a38414141414d2f6e65772d67616d652d616861676f6e2d756d696b6f2d70726f6772616d6d696e672e676966" width="450"/>
 
@@ -33,7 +34,7 @@ I'm a precise and reliable Full Stack Web Developer skilled in MERN (HTML, CSS, 
 <br>
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=PoornimaMohabe&label=Profile%20views&color=0e75b6&style=flat" alt="Poornima Mohabe" /> </p>
+
 
 ## 🌐 Let's Connect :
 
@@ -48,18 +49,6 @@ I'm a precise and reliable Full Stack Web Developer skilled in MERN (HTML, CSS, 
 </a>
 
 </a>
-<br>
-<br>
-<br>
-
-# 📊 GitHub Stats :
-
-<p >
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=PoornimaMohabe&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="Poornima" height="139"/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoornimaMohabe&layout=compact&hide=Shell&border_radius=0&theme=dark" alt="Poornima" height="139" />
-</p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PoornimaMohabe&theme=dark" alt="Poornima" /></p>
 <br>
 <br>
 <br>
@@ -105,6 +94,25 @@ I'm a precise and reliable Full Stack Web Developer skilled in MERN (HTML, CSS, 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white "Vercel")
 
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" /> <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" /> 
-<!--<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+
 
 </p>
+
+# 📊 GitHub Stats :
+
+<div align ="center">
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PoornimaMohabe&show_icons=true&locale=en&layout=compact" alt="Poornima" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PoornimaMohabe&show_icons=true&locale=en" alt="Poornima" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PoornimaMohabe&" alt="Poornima" /></p>
+</div>
+<div align="center"> 
+<img src="https://github-profile-trophy.vercel.app/?username=PoornimaMohabe&column=-1&theme=onedark&rank=-?&margin-w=0" width="40%"/>
+ </div>
+<br>
+<br>
+<br>
+
+
+</div>
