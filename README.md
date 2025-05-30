@@ -18,7 +18,7 @@
   <h1>Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Poornima Mohabe </h1>
 </div>
 <h3 align="justify">
-I'm a precise and reliable Full Stack Web Developer skilled in MERN (HTML, CSS, JavaScript, MongoDB, Express.js, React, Node.js) stack. My approach is results-driven, ensuring projects are completed on schedule with a focus on delivering top-notch quality.</h3>
+Passionate and performance-driven Full Stack Developer with hands-on experience in building scalable web applications using the MERN stack, along with core Java and modern UI libraries. Strong at designing pixel-perfect, responsive UIs and real-time features using WebSockets. Experienced with Git, GitHub, and deployment tools. Looking to bring clean code, fast execution, and user-focused features to real-world products. </h3>
 <br>
 
 ## Fun Fact 🎈:
